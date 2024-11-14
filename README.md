@@ -7,8 +7,9 @@
 ## Layout
 <div align="center" >
     <img src="./src/assets/github/turmas.png" alt="demo-web" height="425">
-    <img src="./src/assets/github/players.png" alt="demo-web" height="425">
     <img src="./src/assets/github/nova-turma.png" alt="demo-web" height="425">
+    <img src="./src/assets/github/players.png" alt="demo-web" height="425">
+    
 </div>
 
 
